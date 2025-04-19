@@ -1,6 +1,5 @@
 sequence = input().upper()
 
-
 a = b = c = d = 0
 for i in sequence:
     if i == 'A':
